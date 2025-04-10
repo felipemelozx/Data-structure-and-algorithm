@@ -8,27 +8,26 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 
 ## 📌 Tópicos em Andamento
 
-| Tópico              | Status        | Implementações |
-|---------------------|---------------|----------|
-| Árvores Binárias    | 🟡 Em progresso | Java           |
-| Arrays              | 🟡 Em progresso     | Java           |
-| Linked Lists        | 🟡 Em progresso     | Java           |
-| HashMap             | 🔴 Pendente      | Java           |
-| Stack (Pilha)       | 🔴 Pendente     | Java           |
-| Queue (Fila)        | 🔴 Pendente     | Java           |
-| Grafos              | 🔴 Pendente  | Java           |
-| Trie                | 🔴 Pendente     | Java           |
-| B-Tree              | 🔴 Pendente     | Java           |
-| BubbleSort          | 🔴 Pendente     | Java           |
-| QuickSort           | 🔴 Pendente     | Java           |
-| MergeSort           | 🔴 Pendente     | Java           |
-| Heap                | 🔴 Pendente | Java           |
-| XOR e Bitwise       | 🔴 Pendente     | Java           |
-| Bloom Filter        | 🔴 Pendente     | Java           |
-| LRU Cache           | 🔴 Pendente     | Java           |
-| Knapsack            | 🔴 Pendente     | Java           |
-| Dynamic Programming | 🟢 Completo     | Java           |
-| Big O Notation      | 🟢 Completo     |            |
+| Tópico              | Status          | Implementações | Link para Documentação|
+|---------------------|-----------------|----------------|-----------------------|
+| Árvores Binárias    | 🟡 Em progresso | Java           |                       |
+| Arrays              | 🟡 Em progresso | Java           |                       |
+| Linked Lists        | 🟡 Em progresso | Java           |                       |
+| HashMap             | 🔴 Pendente     | Java           |                       |
+| Stack (Pilha)       | 🔴 Pendente     | Java           |                       |
+| Queue (Fila)        | 🔴 Pendente     | Java           |                       |
+| Grafos              | 🔴 Pendente     | Java           |                       |
+| Trie                | 🔴 Pendente     | Java           |                       |
+| QuickSort           | 🔴 Pendente     | Java           |                       |
+| B-Tree              | 🔴 Pendente     | Java           |                       |
+| BubbleSort          | 🔴 Pendente     | Java           |                       |
+| MergeSort           | 🟡 Em progresso | Java           |                       |
+| Heap                | 🔴 Pendente     | Java           |                       |
+| XOR e Bitwise       | 🔴 Pendente     | Java           |                       |
+| Bloom Filter        | 🔴 Pendente     | Java           |                       |
+| LRU Cache           | 🔴 Pendente     | Java           |                       |
+| Knapsack            | 🔴 Pendente     | Java           |                       |
+| Dynamic Programming | 🟢 Completo     | Java           |                       |
 
 ## 📚 Recursos Recomendados
 - ### Livros:
