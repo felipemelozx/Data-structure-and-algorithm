@@ -15,20 +15,20 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | Linked Lists        | 🟡 Em progresso | Java           |                       |
 | HashMap             | 🔴 Pendente     | Java           |                       |
 | Stack (Pilha)       | 🔴 Pendente     | Java           |                       |
-| Queue (Fila)        | 🔴 Pendente     | Java           |                       |
 | Grafos              | 🔴 Pendente     | Java           |                       |
 | Trie                | 🔴 Pendente     | Java           |                       |
 | QuickSort           | 🔴 Pendente     | Java           |                       |
 | B-Tree              | 🔴 Pendente     | Java           |                       |
 | BubbleSort          | 🔴 Pendente     | Java           |                       |
-| MergeSort           | 🟡 Em progresso | Java           |                       |
+| MergeSort           | 🔴 Pendente     | Java           |                       |
 | Heap                | 🔴 Pendente     | Java           |                       |
 | XOR e Bitwise       | 🔴 Pendente     | Java           |                       |
 | Bloom Filter        | 🔴 Pendente     | Java           |                       |
 | LRU Cache           | 🔴 Pendente     | Java           |                       |
 | Knapsack            | 🔴 Pendente     | Java           |                       |
 | Dynamic Programming | 🟢 Completo     | Java           |                       |
-| Big O Notation      | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/BigO.md)|
+| Big O Notation      | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/BigO.md)|
+| Queue (Fila)        | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/queue.md)|
 
 ## 📚 Recursos Recomendados
 - ### Livros:
