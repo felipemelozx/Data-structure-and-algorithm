@@ -14,7 +14,6 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | Arrays              | 🟡 Em progresso | Java           |                       |
 | Linked Lists        | 🟡 Em progresso | Java           |                       |
 | HashMap             | 🔴 Pendente     | Java           |                       |
-| Stack (Pilha)       | 🔴 Pendente     | Java           |                       |
 | Grafos              | 🔴 Pendente     | Java           |                       |
 | Trie                | 🔴 Pendente     | Java           |                       |
 | QuickSort           | 🔴 Pendente     | Java           |                       |
@@ -29,6 +28,7 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | Dynamic Programming | 🟢 Completo     | Java           |                       |
 | Big O Notation      | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/BigO.md)|
 | Queue (Fila)        | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/queue.md)|
+| Stack (Pilha)       | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/stack.md)|
 
 ## 📚 Recursos Recomendados
 - ### Livros:
