@@ -11,8 +11,6 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | Tópico              | Status          | Implementações | Link para Documentação|
 |---------------------|-----------------|----------------|-----------------------|
 | Árvores Binárias    | 🟡 Em progresso | Java           |                       |
-| Arrays              | 🟡 Em progresso | Java           |                       |
-| Linked Lists        | 🟡 Em progresso | Java           |                       |
 | HashMap             | 🔴 Pendente     | Java           |                       |
 | Grafos              | 🔴 Pendente     | Java           |                       |
 | Trie                | 🔴 Pendente     | Java           |                       |
@@ -29,6 +27,8 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | Big O Notation      | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/BigO.md)|
 | Queue (Fila)        | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/queue.md)|
 | Stack (Pilha)       | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/stack.md)|
+| Arrays              | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/array.md)|
+| Linked Lists        | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/linkedList(List).md)|
 
 ## 📚 Recursos Recomendados
 - ### Livros:
