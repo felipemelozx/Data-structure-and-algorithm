@@ -7,6 +7,12 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+/dataStruture/.settings
+/dataStruture/.project
+/dataStruture/.classpath
+/algorithms/.settings
+/algorithms/.project
+/algorithms/.classpath
 
 # AWS User-specific
 .idea/**/aws.xml
