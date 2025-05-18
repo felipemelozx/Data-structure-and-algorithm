@@ -9,7 +9,6 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 ## 📌 Tópicos em Andamento
 | Tópico              | Status          | Implementações | Link para Documentação|
 |---------------------|-----------------|----------------|-----------------------|
-| Árvores Binárias    | 🟡 Em progresso | Java           |                       |
 | Grafos              | 🔴 Pendente     | Java           |                       |
 | Trie                | 🔴 Pendente     | Java           |                       |
 | QuickSort           | 🔴 Pendente     | Java           |                       |
@@ -28,6 +27,7 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | Arrays              | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/array.md)|
 | Linked Lists        | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/linkedList(List).md)|
 | HashMap             | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/hashMap.md)|
+| Árvores Binárias    | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/binaryTree.md)|
 
 ## 📚 Recursos Recomendados
 - ### Livros:
