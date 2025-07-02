@@ -14,12 +14,12 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | QuickSort           | 🔴 Pendente     | Java           |                       |
 | B-Tree              | 🔴 Pendente     | Java           |                       |
 | BubbleSort          | 🔴 Pendente     | Java           |                       |
-| MergeSort           | 🔴 Pendente     | Java           |                       |
 | Heap                | 🔴 Pendente     | Java           |                       |
 | XOR e Bitwise       | 🔴 Pendente     | Java           |                       |
 | Bloom Filter        | 🔴 Pendente     | Java           |                       |
 | LRU Cache           | 🔴 Pendente     | Java           |                       |
 | Knapsack            | 🔴 Pendente     | Java           |                       |
+| MergeSort           | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/MergeSort.md)|
 | Dynamic Programming | 🟢 Completo     | Java           |                       |
 | Big O Notation      | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/BigO.md)|
 | Queue (Fila)        | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/queue.md)|
