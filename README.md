@@ -20,7 +20,7 @@ Organizado por tópicos como ordenação, busca, grafos, programação dinâmica
 | LRU Cache           | 🔴 Pendente     | Java           |                       |
 | Knapsack            | 🔴 Pendente     | Java           |                       |
 | MergeSort           | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/MergeSort.md)|
-| Dynamic Programming | 🟢 Completo     | Java           |                       |
+| Dynamic Programming | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/DynamicProgramming.md)|
 | Big O Notation      | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/BigO.md)|
 | Queue (Fila)        | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/queue.md)|
 | Stack (Pilha)       | 🟢 Completo     | Java           |[Ver artigo](https://github.com/felipemelozx/Data-structure-and-algorithm/blob/main/notes/stack.md)|
